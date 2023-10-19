@@ -1,0 +1,21 @@
+{
+  "name": "telegrambot2",
+  "version": "1.0.0",
+  "description": "universal bot",
+  "main": "buyurtma.js",
+  "scripts": {
+    "start": "nodemon media.js"
+  },
+  "keywords": [
+    "universal",
+    "bot"
+  ],
+  "author": "Asrorxoja",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "nodemon": "^3.0.1",
+    "telebot": "^1.4.1",
+    "telegraf": "^4.12.2"
+  }
+}
